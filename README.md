@@ -1,4 +1,4 @@
-- Hi, I’m @christianemaldonadomti doctoral researcher at www.nlp.cic.ipn.mx
+- Hi, I’m @christianemaldonadomti researcher at www.nlp.cic.ipn.mx
 - Our current topics of research are:
   - AI for Minorities www.amnlp.org
   - Influence and virality in Twitter www.artint.tech
